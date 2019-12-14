@@ -40,7 +40,6 @@ echo "Installing terminal..."
 brew install cmake
 brew install luarocks
 brew install pkg-config
-brew install neovim
 brew install tmux
 brew install the_silver_searcher
 
