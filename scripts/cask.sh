@@ -51,7 +51,6 @@ brew cask install font-cascadia
 
 # App Store apps
 echo "Installing App Store apps"
-mas Spark, id: 1176895641
 mas Fantastical 2, id: 975937182
 mas Things 3, id: 904280696
 mas Flycut, id: 442160987
